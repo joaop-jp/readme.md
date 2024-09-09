@@ -44,6 +44,6 @@
 
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
-  <a href="https://www.linkedin.com/in/joaop-jp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/joao-pedro-lopes-425a0420b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
